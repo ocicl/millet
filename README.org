@@ -1,0 +1,10 @@
+* millet
+
+Wrapper for implementation dependent tiny utilities.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/hyotang666/millet.git   |
+| commit  | b20a41c  |
+| systems | millet |
+|---------+-------------------------------------------|
+
